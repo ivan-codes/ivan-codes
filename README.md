@@ -12,5 +12,5 @@
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwindcss" width="32" height="32"/>
 </p>
 
-Follow me on [twitter](https://twitter.com/ivan_codes)
+Follow me on [twitter](https://twitter.com/ivan_codes)<br/>
 Read about tech on my [blog](https://ivancodes.substack.com)
