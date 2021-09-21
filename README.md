@@ -13,3 +13,4 @@
 </p>
 
 Follow me on [twitter](https://twitter.com/ivan_codes)
+Read about tech on my [blog](https://ivancodes.substack.com)
